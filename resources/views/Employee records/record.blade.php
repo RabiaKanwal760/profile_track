@@ -22,7 +22,7 @@
 <form role="form" action="{{route('profile.store')}}" method="post" enctype="multipart/form-data">
     @csrf
     <div class="form-group">
-        <label>Enter Name</label>
+        <label>User Name</label>
         <input class="form-control" name="name" id="name" type="text">
         <p class="help-block">Help text here.</p>
     </div>
