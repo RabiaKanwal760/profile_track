@@ -27,7 +27,7 @@
         <p class="help-block">Help text here.</p>
     </div>
     <div class="form-group">
-        <label>Enter Email</label>
+        <label>User Email</label>
         <input class="form-control" name="email" id="email" type="text">
         <p class="help-block">Help text here.</p>
     </div>
